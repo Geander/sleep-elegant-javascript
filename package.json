@@ -1,0 +1,19 @@
+{
+  "name": "sleep-elegant-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geander/sleep-elegant-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geander/sleep-elegant-javascript/issues"
+  },
+  "homepage": "https://github.com/Geander/sleep-elegant-javascript#readme",
+  "dependencies": {
+    "utils": "0.3.1"
+  }
+}
